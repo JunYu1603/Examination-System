@@ -1,0 +1,26 @@
+25
+1:C:In which continent is Federal of Micronesia located at?:Asia:Africa:Oceania:South America
+1:D:Which of the following states are part of Federal of Micronesia?:Yap:Chuuk:Pohnpei:All of them
+1:B:Who is the current Prime Minister of New Zealand?:Kaja Kallas:Jacinda Ardern:Brenton Tarrant:Katri Kulmuni
+1:B:What was the population of Canada in 2021?:331.9 million:38.25 million:130.3 million:38.9 million
+1:C:What is the capital city of Canada?:Toronto:Niagara Falls:Ottawa:Montreal
+1:A:What is Jamaican offical language?:English:Jamaican:Patwa:Creole
+1:A:Which car manufacturer is from Germany?:Mercedes:Ferrari:Toyota:Ford
+2:A:What is the name of this waterfall located in Canada?:Niagara Falls.jpeg:Niagara falls:Takkakaw Falls:Virginia Falls:Horseshoe Falls
+2:A:What is the traditional clothing called in Jamaica?:Quadrille.jpg:Quadrille:Batik:Guayabera:Karabela
+2:C:What is the traditional food in Federal of Micronesia called?:Uter.jpg:Kon:Chicken Micronesia:Uter:Micronesian Coconut Chicken Curry
+2:B:What is the animal called from New Zealand?:Kiwi.jpeg:Oryx:The Kiwi:Flamengo:Tui
+2:D:Name of this tower in Canada:CN Tower.jpeg:PNB Merdeka 118:One World Trade Center:Central Park Tower:CN Tower
+2:A:Name of this Football Club from Germany:Bayern Munich.jpg:Bayern Munchen:Dortmund:Barcelona:Manchester city
+3:C:Which of the following is not part of New Camasia?:Jamaica.jpg:Micronesia.jpg:Australia.jpg:New Zealand.jpg:
+3:A:Which of the following is Federal of Micronesia?:MicronesiaIsland.jpg:BananaIsland.jpg:BaliIsland.jpg:QatarIsland.jpg
+3:B:Who rules Jamaica?:Elizabeth.jpeg:Charles.jpeg:Williams.jpeg:Andrew.jpeg
+3:A:Which celebrity is from Canada?:Weeknd.jpg:Trevor.jpg:Coldplay.jpeg:Zedd.jpg
+3:D:Which one is the national dance from New Zealand?:Scottish.jpg:Papua.jpg:GermanDance.jpg:Blacks.jpg
+3:A:What is Germany famously known for?:Beer.jpg:Belgium.jpg:Royce.jpg:Pizza.jpg
+3:C:Which currency does Federal of Micronesia use?:Singapore.jpeg:Pound.jpeg:Usdollar.jpg:Jamaicadollar.jpeg
+3:D:Which country was colonised by New Zealand?:Portugal.jpeg:ksa.jpeg:uk.jpeg:Holland.jpeg
+3:D:Which of the following is Adolf Hitler?:benjamin.jpeg:albert.jpeg:alois.jpeg:adolf.jpeg
+3:B:What is Jamaicadollar known for?:spices.jpeg:oil.jpeg:grapes.jpg:soldier.jpeg
+3:A:Who was the first person to visit New Zealand?:abel.jpg:franklin.jpg:ferdinand.jpeg:battuta.jpg
+3:B:Who discovered Germany?:eliza.jpg:otto.jpeg:frank.jpeg:ferdinand.jpeg

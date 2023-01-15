@@ -1,0 +1,7 @@
+Julian Renner,Canada,B,A,C,B,D,C,A,B,C,D,A,C,A,B,A,A,C,B,A,D,D,D,A,C,B,8,fail
+Sam Blick,New Zealand,C,D,B,B,C,C,A,A,B,D,B,B,C,A,D,B,D,B,B,B,B,B,B,D,D,10,fail
+Levi Kaulen,Canada,A,B,A,B,C,D,A,D,B,A,D,C,C,C,B,B,A,B,D,A,B,C,D,D,D,6,fail
+Aubrey Kelly,Germany,C,D,B,C,C,A,A,A,A,C,B,D,A,C,A,B,A,D,A,C,D,D,D,A,B,23,pass
+Noah Cote,Germany,C,C,B,C,C,B,A,B,A,C,A,C,B,D,A,D,B,B,C,C,C,D,D,B,B,10,fail
+Aman Stanbury,Jamaica,B,D,B,B,C,A,A,A,A,C,B,D,A,C,A,B,A,D,A,A,C,C,D,D,D,18,pass
+Laura Bullock,New Zealand,C,D,B,B,C,B,A,A,A,C,B,D,A,C,A,B,A,D,A,C,D,D,B,A,B,24,pass
